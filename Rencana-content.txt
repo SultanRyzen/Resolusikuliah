@@ -6,8 +6,9 @@ Rencana Konten WPU
    ^Vue
    ^React
 -> Struktur Data Dasar
+   ^Angular
 -> PHP Frameworks
- ^Laravel
+   ^Laravel
 -> Interview
 -> Vlogs
 -> Python
